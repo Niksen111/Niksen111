@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Nikita Ksenchik, I am a SPBU student on Technology Programming
+
 <!--
 **Niksen111/Niksen111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
