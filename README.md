@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
 
-My name is Nikita Ksenchik, I am a SPBU student on Technology Programming
+<h3>My name is Nikita Ksenchik, I am a SPBU student on Technology Programming</h3>
 
 <!--
 **Niksen111/Niksen111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
