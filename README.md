@@ -1,6 +1,11 @@
-<h1>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
+# Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
 
-<h3>My name is Nikita Ksenchik, I am a SPBU student on Technology Programming</h3>
+My name is Nikita Ksenchik, I am a third-year student of the Programming Technologies Program at St. Petersburg State University
+
+### :chart_with_upwards_trend: Stats:
+
+![Niksen111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niksen111&show_icons=true&theme=light) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niksen111&layout=compact&theme=light&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <!--
 **Niksen111/Niksen111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
