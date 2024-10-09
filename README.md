@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/></h1>
 
-My name is Nikita Ksenchik, I am a third-year student of the Programming Technologies Program at St. Petersburg State University
+My name is Nikita Ksenchik, I am a fourth-year student of the Programming Technologies Program at St. Petersburg State University
 
 ### :chart_with_upwards_trend: Stats:
 
